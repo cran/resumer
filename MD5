@@ -1,10 +1,10 @@
-bf7997dc777eb8ef03ca3c81f1c6a85e *DESCRIPTION
+43910a473c49817243d5f242de004387 *DESCRIPTION
 4b34c2b1235fe0cf47f75282af3d1a3c *LICENSE
 54264b3bc6bf62b980c049dde6f2bc4c *NAMESPACE
-b7bf348081474513d604c79f7d91ed71 *NEWS.md
+fec40d9576eae405fcc6939b5bd2d264 *NEWS.md
 fb36876636b33fabbb4e36c7bb6132c9 *R/CreateJobFile.r
-1b2b11df403cadb668c19fd0f10ea6d7 *R/ListingCreation.r
-63c6fd1a7c51fbc3cebbd6b4c5654e58 *R/SectionCreation.r
+2bbb6b5a865584fcfff104c52a4d951b *R/ListingCreation.r
+35efd5df4b186f04fd0b8aed0dedd059 *R/SectionCreation.r
 6fa3731c5c3f45ba6c58719294e5739e *R/education.r
 5fb6cea87a12c66e165ba3ccff912624 *R/formatFunction.r
 0fb40911595a314a4083b434d5dfe24e *R/jobs-data.r
@@ -14,12 +14,12 @@ f4caf14aea8ac14550596f5dfe39afbd *data/jobs.rda
 97693a400a89323c945d1e5030523754 *inst/examples/Example.Rmd
 3db05bca87edcdc48f49ebc1e338f569 *inst/examples/Jobs.csv
 95e34996bbd4332a77d2dbac90848464 *inst/rmarkdown/templates/resumer/resources/resumer.tex
-f9cc943173fa9f1e55108a1edf0f415d *inst/rmarkdown/templates/resumer/skeleton/skeleton.Rmd
+31562e7b4115292bc275e52db12cfcc2 *inst/rmarkdown/templates/resumer/skeleton/skeleton.Rmd
 45178aeeb359f2c72d75149db8ffc4f8 *inst/rmarkdown/templates/resumer/template.yaml
 c39238fa5e20a5ae50537d9c5177419d *man/createJobFile.Rd
-bf26c5d209bf3c436490a2ead1676eee *man/generateListing.Rd
-e96a9af40a85dc71eead81bf83978829 *man/generateMultipleListings.Rd
-7433e0038af01ac6977533405dd97d32 *man/generateSection.Rd
+fbd22f2ac0dfa5fda6e8f614db551973 *man/generateListing.Rd
+7920fd42ed6c6dd694a5379d1fbca7ae *man/generateMultipleListings.Rd
+0038cfa71ee6c3d37227c1812d14e004 *man/generateSection.Rd
 6f367dd93b7d98de56cdfc9e01b1cbaf *man/jobs.Rd
 e3c6cb5ebef51f362a4749903ecf9430 *man/resumer-package.Rd
 e64cbf9ccc07251cd61109bad248a07c *man/resumer.Rd
@@ -28,4 +28,4 @@ a8c66fc26171c450d161aa3348adbb86 *tests/testthat.R
 96f8a651cbd7af14d514876fc6505828 *tests/testthat/test-GenerateSection.R
 be42c5ceb7ce728e254e62c27ba64954 *tests/testthat/test-JobFile.R
 bdcd7a2f028a99d451c3892e1c7e0a79 *tests/testthat/test-educationSection.R
-b55fdb1d46b068b0be44251be6ace3e7 *tests/testthat/test-resumerStructure.R
+30bcfe503ff99ee1900744101d71843c *tests/testthat/test-resumerStructure.R

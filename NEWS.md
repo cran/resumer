@@ -1,5 +1,8 @@
+## Version 0.0.3
+Updated tests to account for latest version of `rmakrdown`
+
 ## Version 0.0.2
-- Fixes for new version of testthat
+Fixed default parameter for location of example jobs file
 
 ## Version 0.0.1
 - First build

@@ -1,6 +1,6 @@
 Package: resumer
 Title: Build Resumes with R
-Version: 0.0.2
+Version: 0.0.3
 Authors@R: person("Jared", "Lander", email = "packages@jaredlander.com", role = c("aut", "cre"))
 Description: Using a database, LaTeX and R easily build attractive resumes.
 Depends: R (>= 3.2.1)
@@ -13,8 +13,8 @@ Suggests: testthat
 Imports: useful, dplyr, rmarkdown
 RoxygenNote: 5.0.1
 NeedsCompilation: no
-Packaged: 2016-06-28 15:54:21 UTC; rh88_000
+Packaged: 2016-08-03 04:37:46 UTC; jared
 Author: Jared Lander [aut, cre]
 Maintainer: Jared Lander <packages@jaredlander.com>
 Repository: CRAN
-Date/Publication: 2016-06-28 20:18:00
+Date/Publication: 2016-08-03 10:10:02
