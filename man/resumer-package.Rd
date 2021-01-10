@@ -5,6 +5,5 @@
 \alias{resumer-package}
 \title{resumer}
 \description{
-resumer
+Using a CSV, LaTeX and R to easily build attractive resumes.
 }
-
