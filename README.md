@@ -1,10 +1,14 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
+<!-- badges: start -->
 
+[![R build
+status](https://github.com/jaredlander/resumer/workflows/R-CMD-check/badge.svg)](https://github.com/jaredlander/resumer/actions)
 [![Coverage
 Status](https://img.shields.io/codecov/c/github/jaredlander/resumer/master.svg)](https://codecov.io/github/jaredlander/resumer?branch=master)
 [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/resumer)](https://cran.r-project.org/package=resumer)
 [![Downloads from the RStudio CRAN
 mirror](https://cranlogs.r-pkg.org/badges/resumer)](https://cran.r-project.org/package=resumer)
+<!-- badges: end -->
 
 # resumer
 

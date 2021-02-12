@@ -1,7 +1,7 @@
-d27d3d1dfc5b32fe71c3f25ae80a0aad *DESCRIPTION
-100b326a782cebf45da807b55bf005e8 *LICENSE
+27380e37a1085b4df9caa2dc2ef4d279 *DESCRIPTION
+4606e532676269c3a13a559eb9724ca5 *LICENSE
 ead38bca8cac9ae679f3021968ad9466 *NAMESPACE
-e3ff10a012456e07a7a8d7b6d4263a8b *NEWS.md
+7eed5d654b5c1b9a084ef291c24a0e46 *NEWS.md
 fb36876636b33fabbb4e36c7bb6132c9 *R/CreateJobFile.r
 25e424d21240c1eb7ee43a45c1f8a9a2 *R/ListingCreation.r
 19156323aa4578adbeb8326d2cd539a6 *R/SectionCreation.r
@@ -9,10 +9,11 @@ fb36876636b33fabbb4e36c7bb6132c9 *R/CreateJobFile.r
 fc008f67eed964b979ba9399f0a26287 *R/formatFunction.r
 0fb40911595a314a4083b434d5dfe24e *R/jobs-data.r
 e772df7adc791559cedaad310a6be32c *R/resumer-package.r
-9205bf1af88282845ce57056860e336a *README.md
+f11355d313f8a3eb27bc7cd4a3dfa536 *README.md
 f4caf14aea8ac14550596f5dfe39afbd *data/jobs.rda
 97693a400a89323c945d1e5030523754 *inst/examples/Example.Rmd
 3db05bca87edcdc48f49ebc1e338f569 *inst/examples/Jobs.csv
+c4dbb735097113f5f9674ca6b001f7f1 *inst/rmarkdown/templates/resumer/resources/resume.cls
 95e34996bbd4332a77d2dbac90848464 *inst/rmarkdown/templates/resumer/resources/resumer.tex
 31562e7b4115292bc275e52db12cfcc2 *inst/rmarkdown/templates/resumer/skeleton/skeleton.Rmd
 45178aeeb359f2c72d75149db8ffc4f8 *inst/rmarkdown/templates/resumer/template.yaml
